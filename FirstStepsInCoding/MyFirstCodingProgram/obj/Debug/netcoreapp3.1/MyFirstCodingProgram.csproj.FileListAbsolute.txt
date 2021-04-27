@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\bin\Debug\netcoreapp3.1\MyFirstCodingProgram.exe
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\bin\Debug\netcoreapp3.1\MyFirstCodingProgram.deps.json
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\bin\Debug\netcoreapp3.1\MyFirstCodingProgram.runtimeconfig.json
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\bin\Debug\netcoreapp3.1\MyFirstCodingProgram.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\bin\Debug\netcoreapp3.1\MyFirstCodingProgram.dll
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\bin\Debug\netcoreapp3.1\MyFirstCodingProgram.pdb
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\obj\Debug\netcoreapp3.1\MyFirstCodingProgram.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\obj\Debug\netcoreapp3.1\MyFirstCodingProgram.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\obj\Debug\netcoreapp3.1\MyFirstCodingProgram.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\obj\Debug\netcoreapp3.1\MyFirstCodingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\obj\Debug\netcoreapp3.1\MyFirstCodingProgram.dll
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\obj\Debug\netcoreapp3.1\MyFirstCodingProgram.pdb
+C:\Users\Dexter\source\repos\FirstStepsInCoding\MyFirstCodingProgram\obj\Debug\netcoreapp3.1\MyFirstCodingProgram.genruntimeconfig.cache

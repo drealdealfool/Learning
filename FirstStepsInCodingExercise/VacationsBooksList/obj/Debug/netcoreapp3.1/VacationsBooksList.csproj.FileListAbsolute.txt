@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\bin\Debug\netcoreapp3.1\VacationsBooksList.exe
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\bin\Debug\netcoreapp3.1\VacationsBooksList.deps.json
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\bin\Debug\netcoreapp3.1\VacationsBooksList.runtimeconfig.json
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\bin\Debug\netcoreapp3.1\VacationsBooksList.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\bin\Debug\netcoreapp3.1\VacationsBooksList.dll
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\bin\Debug\netcoreapp3.1\VacationsBooksList.pdb
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\obj\Debug\netcoreapp3.1\VacationsBooksList.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\obj\Debug\netcoreapp3.1\VacationsBooksList.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\obj\Debug\netcoreapp3.1\VacationsBooksList.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\obj\Debug\netcoreapp3.1\VacationsBooksList.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\obj\Debug\netcoreapp3.1\VacationsBooksList.dll
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\obj\Debug\netcoreapp3.1\VacationsBooksList.pdb
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\VacationsBooksList\obj\Debug\netcoreapp3.1\VacationsBooksList.genruntimeconfig.cache

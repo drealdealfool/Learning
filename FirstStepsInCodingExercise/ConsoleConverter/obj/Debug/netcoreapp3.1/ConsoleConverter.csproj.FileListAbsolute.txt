@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.exe
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.deps.json
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.runtimeconfig.json
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.dll
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.pdb
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.dll
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.pdb
+C:\Users\Dexter\source\repos\FirstStepsInCodingExercise\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.genruntimeconfig.cache
