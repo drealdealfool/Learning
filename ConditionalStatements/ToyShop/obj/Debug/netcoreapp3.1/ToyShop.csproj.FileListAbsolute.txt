@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.exe
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.deps.json
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.json
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.dll
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.pdb
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.dll
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.pdb
+C:\Users\Dexter\source\repos\ConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.genruntimeconfig.cache
