@@ -1,0 +1,12 @@
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.exe
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.deps.json
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.runtimeconfig.json
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.dll
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\bin\Debug\netcoreapp3.1\WorkingHours.pdb
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.dll
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.pdb
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\WorkingHours\obj\Debug\netcoreapp3.1\WorkingHours.genruntimeconfig.cache
