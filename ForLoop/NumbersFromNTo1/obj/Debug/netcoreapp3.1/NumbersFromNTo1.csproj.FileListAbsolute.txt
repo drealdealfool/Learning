@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\bin\Debug\netcoreapp3.1\NumbersFromNTo1.exe
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\bin\Debug\netcoreapp3.1\NumbersFromNTo1.deps.json
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\bin\Debug\netcoreapp3.1\NumbersFromNTo1.runtimeconfig.json
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\bin\Debug\netcoreapp3.1\NumbersFromNTo1.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\bin\Debug\netcoreapp3.1\NumbersFromNTo1.dll
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\bin\Debug\netcoreapp3.1\NumbersFromNTo1.pdb
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\obj\Debug\netcoreapp3.1\NumbersFromNTo1.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\obj\Debug\netcoreapp3.1\NumbersFromNTo1.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\obj\Debug\netcoreapp3.1\NumbersFromNTo1.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\obj\Debug\netcoreapp3.1\NumbersFromNTo1.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\obj\Debug\netcoreapp3.1\NumbersFromNTo1.dll
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\obj\Debug\netcoreapp3.1\NumbersFromNTo1.pdb
+C:\Users\Dexter\source\repos\ForLoop\NumbersFromNTo1\obj\Debug\netcoreapp3.1\NumbersFromNTo1.genruntimeconfig.cache

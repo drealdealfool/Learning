@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\bin\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.exe
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\bin\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.deps.json
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\bin\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.runtimeconfig.json
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\bin\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\bin\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.dll
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\bin\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.pdb
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\obj\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\obj\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\obj\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\obj\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\obj\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.dll
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\obj\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.pdb
+C:\Users\Dexter\source\repos\ForLoop\NumbersFrom1ToNWith3Steps\obj\Debug\netcoreapp3.1\NumbersFrom1ToNWith3Steps.genruntimeconfig.cache
