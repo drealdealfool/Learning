@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.exe
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.deps.json
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.json
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedExercise\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.genruntimeconfig.cache
