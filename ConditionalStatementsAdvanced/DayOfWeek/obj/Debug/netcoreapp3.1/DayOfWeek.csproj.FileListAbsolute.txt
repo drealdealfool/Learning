@@ -1,0 +1,4 @@
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\ConditionalStatementsAdvancedLab\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.CoreCompileInputs.cache
