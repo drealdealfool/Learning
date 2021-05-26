@@ -1,0 +1,13 @@
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\obj\Debug\netcoreapp3.1\ReadText.csprojAssemblyReference.cache
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+C:\Users\Dexter\source\repos\WhileLoop\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache
